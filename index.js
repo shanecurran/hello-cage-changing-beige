@@ -1,3 +1,3 @@
 exports.handler = async (data) => {
-  return data.token;
+  return data;
 }
